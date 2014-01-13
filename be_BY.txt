@@ -1,0 +1,146 @@
+ // buttons
+        p['Send']        = 'Адправіць';
+        p['Cancel']      = 'Адмяніць';
+        p['Attach more'] = 'Прычапіць яшчэ';
+        p['Attach']      = 'Прычапіць';
+        p['more']        = 'яшчэ';
+        p['hide']        = 'схаваць';
+   
+   // tabs
+        p['tab_comments']   = 'Камэнтары';
+        p['tab_topics']     = 'Тэмы';
+        p['tab_authors']    = 'Аўтары';
+        p['tab_all']        = 'Усе';
+        p['tab_new']        = 'Новыя';
+        p['tab_popular']    = 'Папулярныя';
+        p['tab_context']    = 'Кантэкст';
+       
+   //menu widget
+        p['Hypercomments']   = 'Камэнтары';
+        p['Code']            = 'Узяць сабе код віджэта';
+        p['About']           = 'Аб сэрвісе';
+        p['Login']           = 'Увайсьці';
+        p['Logout']          = 'Выйсьці';
+       
+        p['No comments']     = 'Яшчэ няма камэнтароў';
+     
+   //form
+        p['Add comment']      = 'Камэнтаваць';
+        p['Add new comment']  = 'Увядзіце тэкст паведамленьня';
+        p['Select a category'] = 'Абярыце катэгорыю';  
+       
+  //menu form
+        p['Image']            = 'Выява';
+        p['Presentation']     = 'Прэзэнтацыя';
+        p['Video']            = 'Відэазапіс';
+        p['crossposting to']  = 'апублікаваць у';
+             
+    //message actions
+        p['Reply']            = 'Адказаць';
+        p['Comments']         = 'Камэнтароў';
+        p['Rating']           = 'Рэйтынг';
+        p['More']             = 'Яшчэ паведамленьні';
+        p['Bad comment']      = 'Благі камэнтар';
+        p['Good comment']     = 'Файны камэнтар';
+        p['See topic comments']= 'Праглядзець камэнтары';
+        p['Message deleted']  = 'Паведамленьне выдалена адміністратарам';
+        p['Message access denied']='У вас няма правоў на дадзенае дзеяньне ці ваш рахунак быў заблякаваны';
+        p['Message Pre-Moderate']='Камэнтар будзе апублікаваны пасьля праверкі';
+        p['Link']            = 'Спасылка';
+        p['Message deleted user']  = 'Паведамленьне выдалена';
+        p['Restore']  = 'Узнавіць';
+        p['Agree']  = 'Згодны';
+        p['Not agree']  = 'Ня згодны';
+        p['New comment']  = 'Новы камэнтар';
+        p['Mark as read']  = 'Пазначыць як прачытанае';
+        p['You must be logged in to post a comment'] = 'Вы мусіце ўвайсьці, каб пакінуць камэнтар';
+        p['User page'] = 'Старонка карыстальніка';
+        p['First'] = 'Першая';
+        p['Last'] = 'Апошняя';
+        p['Full profile'] = 'Поўны профіль';
+        p['Save'] = 'Захаваць';
+        p['Cancel'] = 'Адмяніць';
+        p['Mark as spam'] = 'Спам';
+        p['Black list'] = 'Чорны сьпіс';
+        p['Category'] = 'Катэгорыя';
+
+   //menu message
+        p['Delete']           = 'Выдаліць';
+        p['Blockade']         = 'Заблякаваць';
+        p['Spam']             = 'Спам';
+        p['Enter your message before sending'] = 'Увядзіце тэкст паведамленьня перад адпраўкай';
+      
+   // time
+        p['years']   = ['год', 'года', 'гадоў'];
+        p['months']  = ['месяц', 'месяца', 'месяцаў'];
+        p['days']    = ['дзень', 'дня', 'дзён'];
+        p['hours']   = ['гадзіна', 'гадзіны', 'гадзінаў'];
+        p['minutes'] = ['хвіліна', 'хвіліны', 'хвілінаў'];
+        p['seconds'] = ['сэкунду', 'сэкунды', 'сэкундаў'];
+        p['now'] = 'толькі што';
+        p['ago'] = 'таму';
+        p['ago at'] = 'таму ў';
+        p['1 minutes ago'] = 'прыблізна хвіліну таму';
+        p['yesterday at'] = 'учора ў {time}';
+        p['at the day before yesterday'] = 'пазаўчора ў {time}';
+        
+  // images popup
+        p['Add images']        = 'Дадаць выяву';
+        p['with computer']     = 'З кампутара';
+        p['from the Internet'] = 'З інтэрнэту';
+        p['or']                = 'ці';
+        p['Select file']       = 'Абраць файл з кампутара';
+        p['Drag the image into this box'] = 'Перацягніце выяву ў гэтае акно';    
+    
+   // auth popup
+        p['Anonymously'] = 'Ананімна';
+        p['Enter your nick'] = 'Увядзіце ваш нік';
+        p['Log in under your account'] = 'Уваход пад рахункам';  
+        p['Your user name is too big'] = 'Ваш нік занадта вялікі';  
+        
+   // presentation popup
+        p['only for google'] = 'толькі для Google дакумэнтаў';
+        p['Insert the HTML'] = 'устаўце HTML код прэзэнтацыі';
+        
+   // video popup
+        p['Youtube'] = 'Устаўце спасылку на відэа з YouTube';
+        p['Enter the address of the page with the video'] = 'Увядзіце адрас старонкі з відэа';
+        
+   // likes
+        p['I like'] = 'Мне падабаецца гэтая старонка';
+        p['I do not like'] = 'Мне не падабаецца гэтая старонка';
+        p['Share with friends'] = 'Падзяліцеся з сябрамі';
+        p['like it'] = 'гэта падабаецца';
+        p['people listening'] = 'Чытаюць зараз ';
+        p['Like'] = 'Падабаецца';
+        
+    // topics
+        p['All topics'] = 'Усе тэмы';
+        p['Next']     = 'Наступная';
+        p['Previous'] = 'Папярэдняя';
+      
+        //HC
+        p['Comment'] = 'Камэнтаваць';
+        p['HyperComments advice: You can highlight and comment on any word or phrase in the text'] = 'Парада ад HyperComments: Вы можаце вылучыць і пракамэнтаваць любое слова, ці словаспалучэньне ў тэксьце';
+        p['Allocated a large block of text that is better to comment under the article'] = 'Вылучаны вялікі кавалак тэксту, які лепш камэнтаваць пад артыкулам';
+        p['New Comments'] = 'Новыя камэнтары'; 
+        p['Moderate'] = 'Мадэраваць';
+        p['Complain'] = 'Паскардзіцца';
+
+        // new
+        p['Profile'] = 'Рахунак'; 
+        p['Page'] = 'Старонка'; 
+
+        p['ban_user'] = 'Карыстальнік заблякаваны'; 
+        p['complain_send'] = 'Жальба адпраўлена'; 
+        p['Warning'] = 'Папярэджаньне';
+        p['Subscribe'] = 'Падпісацца';
+
+        p['Comment Link'] = 'Спасылка на камэнтар';
+        p['comment_length'] = 'На жаль, ваш камэнтар занадта даўгі. Калі ласка, адрэдагуйце яго й паспрабуйце яшчэ раз.';
+        p['Authorization'] = 'Аўтарызацыя';
+        p['Edit'] = 'Рэдагаваць';
+        p['replies'] = 'адказаў';
+        p['Show New Comments'] = 'Новыя камэнтары';
+        p['Your message is defined as flood'] = 'Вашае паведамленьне вызначана як флуд';
+        p['Receive e-mail notifications'] = 'Атрымліваць паведамленьні па пошце';

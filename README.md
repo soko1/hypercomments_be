@@ -1,4 +1,8 @@
 hypercomments_be
 ================
 
-Пераклад на беларускую мову
+Пераклад Hypercomments на беларускую мову.
+
+Перакладчык: 
+Сакалоў Аляксей (sakalou.aliaksei at gmail dot com)
+
