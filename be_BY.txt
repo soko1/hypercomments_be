@@ -17,7 +17,7 @@
        
    //menu widget
         p['Hypercomments']   = 'Камэнтары';
-        p['Code']            = 'Узяць сабе код віджэта';
+        p['Code']            = 'Скапіяваць код віджэта';
         p['About']           = 'Аб сэрвісе';
         p['Login']           = 'Увайсьці';
         p['Logout']          = 'Выйсьці';
@@ -142,5 +142,5 @@
         p['Edit'] = 'Рэдагаваць';
         p['replies'] = 'адказаў';
         p['Show New Comments'] = 'Новыя камэнтары';
-        p['Your message is defined as flood'] = 'Вашае паведамленьне вызначана як флуд';
+        p['Your message is defined as flood'] = 'Вашае паведамленьне вызначаецца як флуд';
         p['Receive e-mail notifications'] = 'Атрымліваць паведамленьні па пошце';
